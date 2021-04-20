@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jesseinit/jesseinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+
+#### I'm a Full-Stack Developer(Backend Focused) working from Lagos, Nigeria.
+
+##### BIO
+
+- 🏢 I'm currently **looking to join my next team**
+- ⚙️ I use daily: `.py`, `.js(x)`, `.yml`, `.html`, `.css`,
+- 🌍 I'm mostly active within the **Django, React, DevOps Spaces**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **backend engineering**, **financial and eccommerce technology**
+- 📫 Reach me: [twitter.com/jesseinit](https://twitter.com/jesseinit)
+- ⚡️ Fun fact: I love cold dark rooms and I'm a huge fan of J.Cole and Blxst
