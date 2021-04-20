@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚙️ I use daily: `.py`, `.js(x)`, `.yml`, `.html`, `.css`,
 - 🌍 I'm mostly active within the **Django, React, DevOps Spaces**
 - 🌱 Learning all about **TypeScript, Golang, Kubernetes and Open Source**
-- 💬 Ping me about **backend engineering**, **financial and eccommerce technology**
+- 💬 Ping me about **backend engineering**, **finance and eccommerce technology**
 - 📫 Reach me: [twitter.com/jesseinit](https://twitter.com/jesseinit)
 - ⚡️ Fun fact: I love cold dark rooms and I'm a huge fan of J.Cole and Blxst
