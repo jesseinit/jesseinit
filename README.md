@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer(Backend Focused) working from Lagos, Nigeria.
+#### I'm a Full-Stack Developer(Backend Focused) based in Lagos, Nigeria.
 
 ##### BIO
 
-- 🏢 I'm currently **looking to join my next team**
+- 🏢 I'm currently **looking to join my next team (remote or relocation)**
 - ⚙️ I use daily: `.py`, `.js(x)`, `.yml`, `.html`, `.css`,
 - 🌍 I'm mostly active within the **Django, React, DevOps Spaces**
 - 🌱 Learning all about **TypeScript, Golang, Kubernetes and Open Source**
