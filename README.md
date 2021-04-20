@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🏢 I'm currently **looking to join my next team**
 - ⚙️ I use daily: `.py`, `.js(x)`, `.yml`, `.html`, `.css`,
 - 🌍 I'm mostly active within the **Django, React, DevOps Spaces**
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **TypeScript, Golang, Kubernetes and Open Source**
 - 💬 Ping me about **backend engineering**, **financial and eccommerce technology**
 - 📫 Reach me: [twitter.com/jesseinit](https://twitter.com/jesseinit)
 - ⚡️ Fun fact: I love cold dark rooms and I'm a huge fan of J.Cole and Blxst
