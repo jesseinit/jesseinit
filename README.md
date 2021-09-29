@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer(Backend Focused) based in Lagos, Nigeria.
+#### I'm a Software Engineer(Backend Web Services Focused) based in Lagos, Nigeria.
 
 ##### BIO
 
-- 🏢 I'm currently **looking to join my next team (remote or relocation)**
+- 🏢 I'm currently **looking to join my next team (remote or on-site)**
 - ⚙️ I use daily: `.py`, `.js(x)`, `.yml`, `.html`, `.css`,
 - 🌍 I'm mostly active within the **Django, React, DevOps Spaces**
 - 🌱 Learning all about **Golang, Kubernetes and Distributed Systems**
-- 💬 Ping me about **backend engineering**, **finance and eccommerce technology**
+- 💬 Ping me about **backend engineering, finance and hot jollof rice**
 - 📫 Reach me: [twitter.com/jesseinit](https://twitter.com/jesseinit)
 - ⚡️ Fun fact: I love cold dark rooms and I'm a huge fan of J.Cole and Blxst
