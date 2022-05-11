@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 🌍 I'm mostly active within the **Django, React, DevOps Spaces**
 - 🌱 Learning all about **Golang, Kubernetes and Distributed Systems**
 - 💬 Ping me about **backend engineering, finance and hot jollof rice**
-- 📫 Reach me: [twitter.com/jesseinit](https://twitter.com/jesseinit)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jesse-egbosionu/)
 - ⚡️ Fun fact: I love cold dark rooms and I'm a huge fan of J.Cole and Blxst
