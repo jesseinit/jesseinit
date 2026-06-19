@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-#### I'm a Software Engineer(Backend Web Services Focused) based in Eindhoven, The Netherlands.
+#### I'm a Snr. Software Engineer(Web Services Focused) based in Amsterdam, The Netherlands.
 
 ##### BIO
 
